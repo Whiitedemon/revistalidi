@@ -1,9 +1,6 @@
-# revistalidi
-
-
- index.html
-
-<link rel="stylesheet" href="styles.css">
+# revistalidi/
+├── index.html
+└── styles.css
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -58,66 +55,6 @@
   </main>
 
   <footer>
- styles.css
-    body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #b81010;
-}
-
-header {
-  background-color: #fa0000;
-  color: white;
-  padding: 1rem;
-}
-
-header h1 {
-  margin: 0;
-}
-
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 1rem;
-  padding: 0;
-}
-
-nav a {
-  color: white;
-  text-decoration: none;
-}
-
-.destacado, .articulos {
-  padding: 2rem;
-  background-color: white;
-  margin: 1rem auto;
-  max-width: 1000px;
-}
-
-.grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-article {
-  background: #fe0202;
-  border: 1px solid #000000;
-  padding: 1rem;
-  flex: 1 1 45%;
-}
-
-article img {
-  max-width: 100%;
-  height: auto;
-}
-
-footer {
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-}
     <p>&copy; 2025 Mundo Actual. Todos los derechos reservados.</p>
   </footer>
 </body>
