@@ -1,6 +1,5 @@
-# revistalidi/
-├── index.html
-└── styles.css
+# revistalidi
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
